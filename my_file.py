@@ -6,4 +6,4 @@ def hi_there():
     print("hi, Coding in progress")
 
 def hi_there():
-    print("hi, Coding in progress")
+    print("Updated python function for merge conflict")
